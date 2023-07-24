@@ -1,0 +1,5 @@
+aiofiles==23.1.0
+fastapi==0.92.0
+ffmpeg-python==0.2.0
+openai-whisper==20230314
+python-multipart==0.0.6
